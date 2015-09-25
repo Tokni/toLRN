@@ -12,3 +12,71 @@ Saved
 *.sln
 
 *.suo
+Build/Receipts/SeaFoodSim48-Win32-Development.target.xml
+Content - Copy/Scripts/MasterBlueprints/SeaFoodGameMode.uasset
+Content - Copy/Scripts/MasterBlueprints/Ship.uasset
+Content - Copy/Scripts/MasterBlueprints/TPController.uasset
+Content - Copy/Scripts/MasterBlueprints/TPGameInstance.uasset
+Content - Copy/Scripts/MasterBlueprints/Vessel.uasset
+Content - Copy/StarterContent/Shapes/Shape_Plane.uasset
+Content - Copy/StarterContent/Textures/T_Chair_M.uasset
+Content - Copy/StarterContent/Textures/T_Chair_N.uasset
+Content - Copy/StarterContent/Textures/T_Ground_Grass_D.uasset
+Content - Copy/StarterContent/Textures/T_Ground_Grass_N.uasset
+Content - Copy/StarterContent/Textures/T_Ground_Gravel_D.uasset
+Content - Copy/StarterContent/Textures/T_MacroVariation.uasset
+Content - Copy/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+Content - Copy/StarterContent/Textures/T_Metal_Copper_D.uasset
+Content - Copy/StarterContent/Textures/T_Metal_Gold_N.uasset
+Content - Copy/StarterContent/Textures/T_Perlin_Noise_M.uasset
+Content - Copy/StarterContent/Textures/T_Rock_Slate_D.uasset
+Content - Copy/StarterContent/Textures/T_Statue_M.uasset
+Content - Copy/StarterContent/Textures/T_Statue_N.uasset
+Content - Copy/StarterContent/Textures/T_TableRound_M.uasset
+Content - Copy/Assets/Materials/SeaFoodSimOcean_Mat.uasset
+Content - Copy/Content/Assets/Materials/SeaFoodSimOcean_Mat.uasset
+Content - Copy/Content/Maps/FaroeIslands_sharedassets/grass_LayerInfo.uasset
+Content - Copy/Content/Maps/FaroeIslands_sharedassets/rocks_LayerInfo.uasset
+Content - Copy/Content/Maps/FaroeIslands_sharedassets/seabed_LayerInfo.uasset
+Content - Copy/Content/Maps/FaroeIslands_sharedassets/snow_LayerInfo.uasset
+Content - Copy/Content/Mat_Landscape.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/FishGroup.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/FisheryMode.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/LandingZone.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/PlayerCam.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/Ship.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/TPController.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/TPGameInstance.uasset
+Content - Copy/Content/Scripts/MasterBlueprints/Vessel.uasset
+Content - Copy/Content/StarterContent/Shapes/Shape_Plane.uasset
+Content - Copy/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+Content - Copy/Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+Content - Copy/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+Content - Copy/Content/StarterContent/Textures/T_MacroVariation.uasset
+Content - Copy/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+Content - Copy/Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+Content - Copy/Content/UI/Menu.uasset
+Content - Copy/Maps/FaroeIslands.umap
+Content - Copy/StarterContent/Textures/T_TableRound_N.uasset
+Content - Copy/UI/ServerList.uasset
+Content - Copy/UI/ServerMenu.uasset
+Content - Copy/UI/ServerRow.uasset
+Pack/WindowsNoEditor/Manifest_NonUFSFiles.txt
+Pack/WindowsNoEditor/SeaFoodSim48/Content/Paks/SeaFoodSim48-WindowsNoEditor.pak
+Pack/WindowsNoEditor2/Engine.zip
+Pack/WindowsNoEditor2/Manifest_NonUFSFiles.txt
+Pack/WindowsNoEditor2/SeaFoodSim48/Content/Paks/SeaFoodSim48-WindowsNoEditor.pak
+Content - Copy/Maps/FaroeIslands_sharedassets/grass_LayerInfo.uasset
+Content - Copy/Maps/FaroeIslands_sharedassets/rocks_LayerInfo.uasset
+Content - Copy/Maps/FaroeIslands_sharedassets/seabed_LayerInfo.uasset
+Content - Copy/Maps/FaroeIslands_sharedassets/snow_LayerInfo.uasset
+Content - Copy/Mat_Landscape.uasset
+Content - Copy/Scripts/MasterBlueprints/FishGroup.uasset
+Content - Copy/Scripts/MasterBlueprints/FisheryMode.uasset
+Content - Copy/Scripts/MasterBlueprints/LandingZone.uasset
+Content - Copy/Scripts/MasterBlueprints/PlayerCam.uasset
+Content - Copy/Scripts/MasterBlueprints/RTSAIController.uasset
+Content - Copy/StarterContent/Textures/T_Rock_Basalt_D.uasset
+Content - Copy/UI/Menu.uasset
+Content - Copy/UI/PlayerList.uasset
+Content - Copy/UI/PlayerRow.uasset
