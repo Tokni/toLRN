@@ -1,14 +1,11 @@
 Binaries
-
 Derived
 DataCache
-
 Intermediate
-
 Saved
-
 *.sdf
-
 *.sln
-
 *.suo
+Build
+*.log
+SeaFoodSim48.uproject
